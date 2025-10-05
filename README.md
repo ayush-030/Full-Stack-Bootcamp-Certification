@@ -1,7 +1,5 @@
 # 🏆 Full Stack Bootcamp & Internship Certificate (IPRP 2.0)
 
-![Certificate]([./Ayush Rawat Full Stack Bootcamp Certificate .pdf](https://github.com/ayush-030/Full-Stack-Bootcamp-Certification/blob/main/Ayush%20Rawat%20Full%20Stack%20Bootcamp%20Certificate%20.pdf))
-
 This repository showcases my **Certificate of Completion** for the **40-Day Full Stack Bootcamp & Internship (IPRP 2.0)** conducted by **K.R. Mangalam University** from **23rd June 2025 to 8th August 2025**.  
 
 During this internship, I gained **hands-on experience** in building full-stack web applications using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), with practical exposure to:
